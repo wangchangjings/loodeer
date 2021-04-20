@@ -1,5 +1,7 @@
 # xiaohongshuSpider
 
+## Just for testing or learning usage.Please do not use it for illegal purposes. The author is not responsible for the consequences.
+
 
 ### scrapy环境安装及入门见  [Scrapy 0.24 文档](http://scrapy-chs.readthedocs.io/zh_CN/0.24/)
 
